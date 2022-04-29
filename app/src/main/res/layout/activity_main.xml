@@ -26,6 +26,7 @@
             android:id="@+id/img"
             android:layout_width="187dp"
             android:layout_height="19dp"
+            android:src="@android:drawable/button_onoff_indicator_off"
             app:srcCompat="@color/black" />
 
     </FrameLayout>
